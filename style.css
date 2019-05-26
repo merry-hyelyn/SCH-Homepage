@@ -14,9 +14,13 @@
 }
 
 #content {
-  width : 700px;
+  width : 1100px;
   float : right;
   padding: 40px 0 20px 0;
+}
+
+#content ol li{
+  font-size:20px;
 }
 
 #menu {
